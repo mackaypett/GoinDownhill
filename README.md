@@ -1,0 +1,2 @@
+# GoinDownhill
+Exploring gradient descent
